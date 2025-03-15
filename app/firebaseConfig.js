@@ -7,13 +7,13 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCXW0q86ziq6PgPoSe9O8vQ48C4pvEBas8",
-  authDomain: "whatsappwebapplication.firebaseapp.com",
-  projectId: "whatsappwebapplication",
-  storageBucket: "whatsappwebapplication.appspot.com",
-  messagingSenderId: "217792752428",
-  appId: "1:217792752428:web:77cde806df60c5ce861a89",
-  measurementId: "G-7DYT7D3RM0"
+  apiKey: "YOur",
+  authDomain: "Your",
+  projectId: "Your",
+  storageBucket: "Your",
+  messagingSenderId: "Your",
+  appId: "Your",
+  measurementId: "Your"
 };
 
 // Initialize Firebase
